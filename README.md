@@ -3,6 +3,7 @@ This repo contains the source code for custom nm-distributions package that can 
 ```
 pip install nm-distributions
 ```
+This package can be used to calculate mean and standard deviations for Gaussian and Binomial distributions. Additional features include plotting of the distributions and calculating the probability distribution functions.
 
 ## Getting Started
 This repo can also be used to locally install the nm-distributions package. Firstly, create a virtual environment from your terminal:
