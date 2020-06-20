@@ -4,7 +4,7 @@ This repo contains the source code for custom nm-distributions package that can 
 pip install nm-distributions
 ```
 
-##Getting Started
+## Getting Started
 This repo can also be used to locally install the nm-distributions package. Firstly, create a virtual environment from your terminal:
 ```
 conda create --name environmentname pip
