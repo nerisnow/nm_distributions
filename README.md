@@ -1,6 +1,7 @@
 # nm_distributions
 This repo contains the source code for custom nm-distributions package that can be found at www.pypi.org and can be installed by :
-`pip install nm-distributions`
+```
+pip install nm-distributions```
 
 ##Getting Started
 This repo can also be used to locally install the nm-distributions package. Firstly, create a virtual environment from your terminal:
